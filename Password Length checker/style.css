@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+
+h1,
+h4,
+p {
+    color: azure;
+    display: flex;
+    justify-content: center;
+    filter: drop-shadow(5px 5px 10px #000);
+}
+
+span {
+    color: #fe07cd;
+}
+
+input {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    filter: drop-shadow(5px 5px 10px #000);
+}
+
+
+/* center {
+    padding: 20px;
+} */
+
+button {}
